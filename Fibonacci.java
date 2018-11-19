@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication7;
+package fibonacci;
 
 /**
  *
  * @author cc2_1h-25
  */
 import java.util.*;
-public class JavaApplication7 {
+public class Fibonacci{
 
     
     public static void main(String[] args) {
