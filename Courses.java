@@ -1,7 +1,7 @@
-package javaapplication3;
+package courses;
 import java.util.*;
 
-public class JavaApplication3 {
+public class Courses {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
